@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-07-08T15:45:12Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MAX86141_HEG_MINI"
+        },
+        "Owner": "Joshua Brewster <brewster.joshua1@gmail.com>",
+        "Size": {
+            "X": 75.9976,
+            "Y": 9.956
+        }
+    }
+}
